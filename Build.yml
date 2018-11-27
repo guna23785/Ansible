@@ -10,4 +10,4 @@
        db: postgres
     monitoring: yes
     vpc_subnet_id: subnet-01080b2a09687044f
-    assign_public_ip: yes
+    assign_public_ip: no
